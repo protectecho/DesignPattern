@@ -1,4 +1,4 @@
-package patten.decorate;
+package pattern.decorate;
 
 public class DecorateUse {
     public static void main(String[] args) {
